@@ -548,7 +548,7 @@
         "computeType": "AmlCompute",
         "computeLocation": "[parameters('location')]",
         "properties": {
-          "vmSize": "Standard_D12",
+          "vmSize": "Standard_D11",
           "vmPriority": "Dedicated",
           "scaleSettings": {
             "maxNodeCount": 4,
